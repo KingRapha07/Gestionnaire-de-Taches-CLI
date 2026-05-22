@@ -27,7 +27,7 @@ chmod +x task_manager.py
 ln -s $(pwd)/task_manager.py /usr/local/bin/task
 ```
 
-## 🔧 Utilisation
+##  Utilisation
 
 ```bash
 # Ajouter une tâche
